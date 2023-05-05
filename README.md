@@ -4,7 +4,7 @@
 
 This repository offers a dynamic simulation playground designed for training agents using Q-Learning algorithms. The environment is composed of particles that adhere to realistic physical behaviors, allowing for comprehensive training scenarios. The mechanics are highly flexible and scalable, enabling users to exercise control over the constituent elements to suit specific training goals.
 
-![repulsion_example](https://github.com/yago-mendoza/herding-sim/blob/main/ressources/HEADER.gif)
+![matrix](https://github.com/yago-mendoza/herding-sim/blob/main/ressources/matrix.gif)
 
 ## Execution
 
@@ -37,5 +37,5 @@ To engage with the simulation, Python and Pygame must be pre-installed on the lo
 
 The program's code structure consists of a series of flow structures and Pygame functions. Pygame is declared as a global variable and used throughout the code. The program begins by initializing Pygame and setting up the display window. Next, the program sets up the simulation environment and creates the boid particles, assigning each particle its unique characteristics. The simulation itself is run within a while loop that continuously updates the positions and behaviors of the particles. The loop also checks for user input and updates the display accordingly. Additionally, the program includes several functions for calculating various aspects of the boid particles' behavior. 
 
-
+![test](https://github.com/yago-mendoza/herding-sim/blob/main/ressources/test.gif)
 
