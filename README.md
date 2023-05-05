@@ -1,10 +1,10 @@
+![matrix](https://github.com/yago-mendoza/herding-sim/blob/main/images/matrix.gif)
+
 # Herding-Sim
 
 [![license: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
 Herding-Sim is a dynamic simulation playground designed for training agents using Q-Learning algorithms. The environment is composed of particles that adhere to realistic physical behaviors, allowing for comprehensive training scenarios. To achieve this purpose, additional architectures can be programmed to control the repelling point in pursuit of specific training objectives. The mechanics are highly flexible and scalable, enabling users to exercise control over the constituent elements to suit specific training goals.
-
-![matrix](https://github.com/yago-mendoza/herding-sim/blob/main/images/matrix.gif)
 
 ## Execution
 
