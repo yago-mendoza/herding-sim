@@ -27,7 +27,7 @@ The user can control the movement of the repelling point using the mouse or arro
 * Press **`d`** to draw the dog's repulsion range
 * Press **`c`** to identify the clusters of sheep
 * Press **`k`** to show the indexes of sheep
-* Press **`s`** to display clusters' statistics
+* Press **`s`** to display clusters' statistics (momentum and count)
 #### Control
 * Press **`←`** to drive the dog left
 * Press **`→`** to drive the dog right
